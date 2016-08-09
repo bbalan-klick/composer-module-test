@@ -1,5 +1,5 @@
 {
-    "name": "drupal/composer-module-test",
+    "name": "bbalan-klick/composer-module-test",
     "description": "This is an example composer.json for example module.",
     "type": "drupal-module",
     "license": "GPL-2.0+"
