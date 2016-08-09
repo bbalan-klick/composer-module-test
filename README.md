@@ -1,2 +1,2 @@
 # composer-module-test
-Composer custom module
+Custom Drupal module with Composer
